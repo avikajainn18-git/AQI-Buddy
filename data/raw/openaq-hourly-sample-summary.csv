@@ -1,0 +1,6 @@
+﻿"Station","SensorId","ReturnedRecords","ValidRecords","UniqueValidHours","ExpectedHours","CoveragePct","MissingTimestamps","DistinctUnits","FlaggedRecords"
+"R K Puram, Delhi","12234787","168","168","168","168","100","0","Âµg/mÂ³","0"
+"Punjabi Bagh, Delhi","12234796","164","164","164","168","97.6","0","Âµg/mÂ³","0"
+"Sector 125, Noida","12235187","164","164","164","168","97.6","0","Âµg/mÂ³","0"
+"Sector 62, Noida","12234720","166","166","166","168","98.8","0","Âµg/mÂ³","0"
+"Vikas Sadan, Gurugram","14258988","160","160","160","168","95.2","0","Âµg/mÂ³","0"

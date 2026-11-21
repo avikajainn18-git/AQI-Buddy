@@ -1,0 +1,167 @@
+[
+  {
+    "station": "Sector 125, Noida",
+    "date": "2026-10-12",
+    "primaryTotalReductionPct": -117.91077641256,
+    "strictTotalReductionPct": -117.91077641256,
+    "primaryFlexibleReductionPct": -299.28459646769505,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-12",
+    "primaryTotalReductionPct": -73.9314973842661,
+    "strictTotalReductionPct": null,
+    "primaryFlexibleReductionPct": -224.25149700598809,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "17:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-30",
+    "primaryTotalReductionPct": -53.98011473836791,
+    "strictTotalReductionPct": -53.98011473836791,
+    "primaryFlexibleReductionPct": -178.04713804713802,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Sector 62, Noida",
+    "date": "2026-10-08",
+    "primaryTotalReductionPct": -40.89934797271978,
+    "strictTotalReductionPct": -39.41842164430789,
+    "primaryFlexibleReductionPct": -123.1651169089104,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Sector 125, Noida",
+    "date": "2026-10-08",
+    "primaryTotalReductionPct": -25.666448538208837,
+    "strictTotalReductionPct": -25.666448538208837,
+    "primaryFlexibleReductionPct": -55.17192384200057,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Sector 125, Noida",
+    "date": "2026-10-31",
+    "primaryTotalReductionPct": -24.772743970451707,
+    "strictTotalReductionPct": -24.772743970451707,
+    "primaryFlexibleReductionPct": -60.604575163398714,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Punjabi Bagh, Delhi",
+    "date": "2026-10-10",
+    "primaryTotalReductionPct": -15.116182474128928,
+    "strictTotalReductionPct": null,
+    "primaryFlexibleReductionPct": -31.470043236565786,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "18:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-31",
+    "primaryTotalReductionPct": -14.489612274790304,
+    "strictTotalReductionPct": -14.489612274790304,
+    "primaryFlexibleReductionPct": -35.36956870290203,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-17",
+    "primaryTotalReductionPct": -12.548648746953772,
+    "strictTotalReductionPct": -12.548648746953772,
+    "primaryFlexibleReductionPct": -25.00906125407757,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "17:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-11-01",
+    "primaryTotalReductionPct": -9.930871347295014,
+    "strictTotalReductionPct": -9.930871347295014,
+    "primaryFlexibleReductionPct": -21.853264527709225,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "17:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Sector 62, Noida",
+    "date": "2026-11-01",
+    "primaryTotalReductionPct": -7.730442819931113,
+    "strictTotalReductionPct": -7.730442819931113,
+    "primaryFlexibleReductionPct": -17.55081077114977,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "Sector 62, Noida",
+    "date": "2026-11-02",
+    "primaryTotalReductionPct": -5.826138745300211,
+    "strictTotalReductionPct": -5.826138745300211,
+    "primaryFlexibleReductionPct": -13.632253603531735,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-11-12",
+    "primaryTotalReductionPct": -5.534964170990878,
+    "strictTotalReductionPct": -5.534964170990878,
+    "primaryFlexibleReductionPct": -11.952403820500505,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "16:45",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-10",
+    "primaryTotalReductionPct": -4.724653396328704,
+    "strictTotalReductionPct": -4.724653396328704,
+    "primaryFlexibleReductionPct": -10.886377156454472,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "17:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  },
+  {
+    "station": "R K Puram, Delhi",
+    "date": "2026-10-08",
+    "primaryTotalReductionPct": -3.2369163839759767,
+    "strictTotalReductionPct": null,
+    "primaryFlexibleReductionPct": -8.023106546854939,
+    "habitualExerciseTime": "07:00",
+    "recommendedExerciseTime": "17:15",
+    "habitualExercisePeriod": "morning",
+    "deployableExercisePeriod": "evening"
+  }
+]

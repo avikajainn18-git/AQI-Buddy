@@ -1,0 +1,219 @@
+{
+  "generatedAt": "2026-11-21T14:43:24.169Z",
+  "baselineCohortStationDays": 95,
+  "policies": [
+    {
+      "policy": "mean14",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 23.365101140800324,
+        "p25": 5.608690812283241,
+        "p75": 34.009990529999875,
+        "min": -117.91077641256,
+        "max": 61.91795162591875,
+        "mean": 17.727806126332922,
+        "shareAtLeast10Percent": 70.52631578947368,
+        "harmfulCount": 17,
+        "harmfulSharePercent": 17.894736842105264
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 40.796291246250334,
+        "p25": 11.654174636732776,
+        "p75": 59.60238942276209,
+        "min": -299.28459646769505,
+        "max": 90.69292216236299,
+        "mean": 27.01481076451459,
+        "shareAtLeast10Percent": 76.84210526315789,
+        "harmfulCount": 17,
+        "harmfulSharePercent": 17.894736842105264
+      },
+      "movedFromHabitualCount": 95,
+      "movedFromHabitualPercent": 100,
+      "fallbackReasons": {},
+      "harmfulRecommendationCount": 17
+    },
+    {
+      "policy": "mean7",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 18.89384691064791,
+        "p25": 0,
+        "p75": 31.863999277609977,
+        "min": -117.91077641256,
+        "max": 59.257159058690114,
+        "mean": 15.6729838327238,
+        "shareAtLeast10Percent": 60,
+        "harmfulCount": 11,
+        "harmfulSharePercent": 11.578947368421053
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 36.58337225595516,
+        "p25": 0,
+        "p75": 55.98420061133248,
+        "min": -299.28459646769505,
+        "max": 90.69292216236299,
+        "mean": 24.859841775131535,
+        "shareAtLeast10Percent": 64.21052631578948,
+        "harmfulCount": 11,
+        "harmfulSharePercent": 11.578947368421053
+      },
+      "movedFromHabitualCount": 78,
+      "movedFromHabitualPercent": 82.10526315789474,
+      "fallbackReasons": {
+        "insufficient-7-day-mean-history": 17
+      },
+      "harmfulRecommendationCount": 11
+    },
+    {
+      "policy": "median14",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 23.365101140800324,
+        "p25": 4.814005669097014,
+        "p75": 34.009990529999875,
+        "min": -132.30281411018626,
+        "max": 61.91795162591875,
+        "mean": 16.74547645198103,
+        "shareAtLeast10Percent": 67.36842105263158,
+        "harmfulCount": 20,
+        "harmfulSharePercent": 21.05263157894737
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 40.74241875075511,
+        "p25": 10.178053422660991,
+        "p75": 59.60238942276209,
+        "min": -335.8148893360161,
+        "max": 90.55821371610845,
+        "mean": 25.06653813428478,
+        "shareAtLeast10Percent": 75.78947368421052,
+        "harmfulCount": 20,
+        "harmfulSharePercent": 21.05263157894737
+      },
+      "movedFromHabitualCount": 95,
+      "movedFromHabitualPercent": 100,
+      "fallbackReasons": {},
+      "harmfulRecommendationCount": 20
+    },
+    {
+      "policy": "median7",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 16.631447131564524,
+        "p25": 0,
+        "p75": 30.225310849502307,
+        "min": -117.91077641256,
+        "max": 57.15088442222821,
+        "mean": 14.654715409402197,
+        "shareAtLeast10Percent": 57.89473684210526,
+        "harmfulCount": 11,
+        "harmfulSharePercent": 11.578947368421053
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 31.018106262986045,
+        "p25": 0,
+        "p75": 53.493053152932134,
+        "min": -299.28459646769505,
+        "max": 90.69292216236299,
+        "mean": 23.26136089597224,
+        "shareAtLeast10Percent": 64.21052631578948,
+        "harmfulCount": 11,
+        "harmfulSharePercent": 11.578947368421053
+      },
+      "movedFromHabitualCount": 78,
+      "movedFromHabitualPercent": 82.10526315789474,
+      "fallbackReasons": {
+        "insufficient-7-day-median-history": 17
+      },
+      "harmfulRecommendationCount": 11
+    },
+    {
+      "policy": "consensus14MeanMedian",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 0,
+        "p25": 0,
+        "p75": 19.806946806059898,
+        "min": -5.826138745300211,
+        "max": 55.15471440216134,
+        "mean": 8.863241231612262,
+        "shareAtLeast10Percent": 28.42105263157895,
+        "harmfulCount": 2,
+        "harmfulSharePercent": 2.1052631578947367
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 0,
+        "p25": 0,
+        "p75": 34.78053269902313,
+        "min": -13.632253603531735,
+        "max": 83.4320482446694,
+        "mean": 15.530378059550596,
+        "shareAtLeast10Percent": 29.473684210526315,
+        "harmfulCount": 2,
+        "harmfulSharePercent": 2.1052631578947367
+      },
+      "movedFromHabitualCount": 32,
+      "movedFromHabitualPercent": 33.68421052631579,
+      "fallbackReasons": {
+        "forecast-methods-disagree": 46,
+        "insufficient-forecast-profile": 17
+      },
+      "harmfulRecommendationCount": 2
+    },
+    {
+      "policy": "historyVote70",
+      "n": 95,
+      "totalReduction": {
+        "n": 95,
+        "median": 0,
+        "p25": 0,
+        "p75": 8.88027747961436,
+        "min": -5.826138745300211,
+        "max": 57.15088442222821,
+        "mean": 8.418926859278384,
+        "shareAtLeast10Percent": 25.263157894736842,
+        "harmfulCount": 3,
+        "harmfulSharePercent": 3.1578947368421053
+      },
+      "flexibleReduction": {
+        "n": 95,
+        "median": 0,
+        "p25": 0,
+        "p75": 17.54907919316055,
+        "min": -13.632253603531735,
+        "max": 90.69292216236299,
+        "mean": 14.564163803226347,
+        "shareAtLeast10Percent": 25.263157894736842,
+        "harmfulCount": 3,
+        "harmfulSharePercent": 3.1578947368421053
+      },
+      "movedFromHabitualCount": 29,
+      "movedFromHabitualPercent": 30.526315789473685,
+      "fallbackReasons": {
+        "insufficient-comparable-history-days": 42,
+        "historical-benefit-not-consistent": 23,
+        "predicted-benefit-below-10-percent": 1
+      },
+      "harmfulRecommendationCount": 3
+    }
+  ],
+  "methodology": {
+    "mean14": "Mean hourly concentration over the previous 14 calendar days; minimum 7 valid historical values per hour.",
+    "mean7": "Mean hourly concentration over the previous 7 calendar days; minimum 4 valid historical values per hour.",
+    "median14": "Median hourly concentration over the previous 14 calendar days; minimum 7 valid historical values per hour.",
+    "median7": "Median hourly concentration over the previous 7 calendar days; minimum 4 valid historical values per hour.",
+    "consensus14MeanMedian": "Use 14-day mean plan only when 7-day mean and 14-day median choose the same starts for all flexible activities and the 14-day mean predicts at least 10% total reduction; otherwise keep habitual schedule.",
+    "historyVote70": "Use 14-day mean plan only when its predicted total gain is at least 10% and it scores better than habitual on at least 70% of at least 7 comparable prior days; otherwise keep habitual schedule.",
+    "cohort": "Reuses station-days from the previously saved primary baseline run, to compare policies on the same set when historical profiles are available.",
+    "caveat": "This tests historical-profile heuristics, not a true meteorological forecast. Policies and thresholds should be treated as a prespecified exploratory comparison, not tuned repeatedly against a final held-out test set."
+  }
+}

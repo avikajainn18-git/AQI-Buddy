@@ -1,0 +1,659 @@
+{
+  "summary": {
+    "primaryStationDays": 95,
+    "strictStationDays": 68,
+    "matchedStationDays": 68,
+    "primaryOnlyStationDays": 27,
+    "strictOnlyStationDays": 0,
+    "matchedPrimaryTotal": {
+      "n": 68,
+      "median": 19.305953598459556,
+      "p25": 3.9344701213116613,
+      "p75": 31.76258860838267,
+      "min": -117.91077641256,
+      "max": 61.91795162591875,
+      "shareAtLeast10Percent": 67.6470588235294
+    },
+    "matchedStrictTotal": {
+      "n": 68,
+      "median": 19.819564984391413,
+      "p25": 3.9344701213116613,
+      "p75": 32.36092349547414,
+      "min": -117.91077641256,
+      "max": 61.91795162591875,
+      "shareAtLeast10Percent": 67.6470588235294
+    },
+    "matchedPrimaryFlexible": {
+      "n": 68,
+      "median": 37.93847628524405,
+      "p25": 7.9774605349231145,
+      "p75": 57.6661792173808,
+      "min": -299.28459646769505,
+      "max": 90.69292216236299,
+      "shareAtLeast10Percent": 72.05882352941177
+    },
+    "matchedStrictFlexible": {
+      "n": 68,
+      "median": 38.98483345082133,
+      "p25": 7.9774605349231145,
+      "p75": 58.323327731082586,
+      "min": -299.28459646769505,
+      "max": 90.69292216236299,
+      "shareAtLeast10Percent": 72.05882352941177
+    }
+  },
+  "matched": [
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-06",
+      "primaryTotal": 17.694761192201014,
+      "strictTotal": 34.07879933312788,
+      "primaryFlexible": 32.49795417348609,
+      "strictFlexible": 62.58865248226952
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-06",
+      "primaryTotal": 43.76110284756117,
+      "strictTotal": 43.76110284756117,
+      "primaryFlexible": 66.64010775330563,
+      "strictFlexible": 66.64010775330563
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-06",
+      "primaryTotal": 53.253425829006154,
+      "strictTotal": 53.253425829006154,
+      "primaryFlexible": 76.8562401263823,
+      "strictFlexible": 76.8562401263823
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-08",
+      "primaryTotal": -40.89934797271978,
+      "strictTotal": -39.41842164430789,
+      "primaryFlexible": -123.1651169089104,
+      "strictFlexible": -118.7054256567663
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-08",
+      "primaryTotal": -25.666448538208837,
+      "strictTotal": -25.666448538208837,
+      "primaryFlexible": -55.17192384200057,
+      "strictFlexible": -55.17192384200057
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-09",
+      "primaryTotal": 11.793773360902106,
+      "strictTotal": 14.368373482788083,
+      "primaryFlexible": 26.183495204935554,
+      "strictFlexible": 31.899395272127535
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-09",
+      "primaryTotal": 23.92498579276379,
+      "strictTotal": 23.92498579276379,
+      "primaryFlexible": 45.81066376496192,
+      "strictFlexible": 45.81066376496192
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-10",
+      "primaryTotal": -4.724653396328704,
+      "strictTotal": -4.724653396328704,
+      "primaryFlexible": -10.886377156454472,
+      "strictFlexible": -10.886377156454472
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-12",
+      "primaryTotal": -117.91077641256,
+      "strictTotal": -117.91077641256,
+      "primaryFlexible": -299.28459646769505,
+      "strictFlexible": -299.28459646769505
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-13",
+      "primaryTotal": 20.93531839551138,
+      "strictTotal": 20.93531839551138,
+      "primaryFlexible": 40.73462324996067,
+      "strictFlexible": 40.73462324996067
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-13",
+      "primaryTotal": 25.035927690794963,
+      "strictTotal": 25.035927690794963,
+      "primaryFlexible": 49.72956730769231,
+      "strictFlexible": 49.72956730769231
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-13",
+      "primaryTotal": 28.539367676412493,
+      "strictTotal": 28.539367676412493,
+      "primaryFlexible": 46.52672399258135,
+      "strictFlexible": 46.52672399258135
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-14",
+      "primaryTotal": 40.252416249700254,
+      "strictTotal": 40.252416249700254,
+      "primaryFlexible": 62.639942974548205,
+      "strictFlexible": 62.639942974548205
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-14",
+      "primaryTotal": 22.279144576160128,
+      "strictTotal": 22.279144576160128,
+      "primaryFlexible": 40.796291246250334,
+      "strictFlexible": 40.796291246250334
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-15",
+      "primaryTotal": 61.91795162591875,
+      "strictTotal": 61.91795162591875,
+      "primaryFlexible": 90.55821371610845,
+      "strictFlexible": 90.55821371610845
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-16",
+      "primaryTotal": 28.223630968438094,
+      "strictTotal": 28.223630968438094,
+      "primaryFlexible": 51.98757763975156,
+      "strictFlexible": 51.98757763975156
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-17",
+      "primaryTotal": -12.548648746953772,
+      "strictTotal": -12.548648746953772,
+      "primaryFlexible": -25.00906125407757,
+      "strictFlexible": -25.00906125407757
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-19",
+      "primaryTotal": 14.518857902307017,
+      "strictTotal": 14.518857902307017,
+      "primaryFlexible": 34.13506012950972,
+      "strictFlexible": 34.13506012950972
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-19",
+      "primaryTotal": 19.921069682511618,
+      "strictTotal": 19.921069682511618,
+      "primaryFlexible": 35.856658184902464,
+      "strictFlexible": 35.856658184902464
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-20",
+      "primaryTotal": 25.771942241914225,
+      "strictTotal": 25.771942241914225,
+      "primaryFlexible": 51.9875463865652,
+      "strictFlexible": 51.9875463865652
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-20",
+      "primaryTotal": 9.982615791247577,
+      "strictTotal": 9.982615791247577,
+      "primaryFlexible": 19.667977282656185,
+      "strictFlexible": 19.667977282656185
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-21",
+      "primaryTotal": 26.4271135687903,
+      "strictTotal": 26.4271135687903,
+      "primaryFlexible": 47.45418806670471,
+      "strictFlexible": 47.45418806670471
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-22",
+      "primaryTotal": 40.53775545932818,
+      "strictTotal": 40.53775545932818,
+      "primaryFlexible": 71.03607626888277,
+      "strictFlexible": 71.03607626888277
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-22",
+      "primaryTotal": 30.034640214139518,
+      "strictTotal": 30.034640214139518,
+      "primaryFlexible": 57.0719434244526,
+      "strictFlexible": 57.0719434244526
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-23",
+      "primaryTotal": 4.000694857527884,
+      "strictTotal": 4.000694857527884,
+      "primaryFlexible": 8.014764039019257,
+      "strictFlexible": 8.014764039019257
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-23",
+      "primaryTotal": 17.285392869505017,
+      "strictTotal": 17.285392869505017,
+      "primaryFlexible": 30.27498105445491,
+      "strictFlexible": 30.27498105445491
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-28",
+      "primaryTotal": 47.83693736490514,
+      "strictTotal": 44.730479717908416,
+      "primaryFlexible": 78.02994508667484,
+      "strictFlexible": 72.96279963461114
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-10-29",
+      "primaryTotal": 17.19936874036684,
+      "strictTotal": 17.19936874036684,
+      "primaryFlexible": 38.44327321639353,
+      "strictFlexible": 38.44327321639353
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-29",
+      "primaryTotal": 31.59644983709695,
+      "strictTotal": 31.59644983709695,
+      "primaryFlexible": 63.70390504666123,
+      "strictFlexible": 63.70390504666123
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-29",
+      "primaryTotal": 44.52324665090622,
+      "strictTotal": 44.52324665090622,
+      "primaryFlexible": 79.09841803163935,
+      "strictFlexible": 79.09841803163935
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-30",
+      "primaryTotal": -53.98011473836791,
+      "strictTotal": -53.98011473836791,
+      "primaryFlexible": -178.04713804713802,
+      "strictFlexible": -178.04713804713802
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-10-31",
+      "primaryTotal": -14.489612274790304,
+      "strictTotal": -14.489612274790304,
+      "primaryFlexible": -35.36956870290203,
+      "strictFlexible": -35.36956870290203
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-10-31",
+      "primaryTotal": -24.772743970451707,
+      "strictTotal": -24.772743970451707,
+      "primaryFlexible": -60.604575163398714,
+      "strictFlexible": -60.604575163398714
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-01",
+      "primaryTotal": -7.730442819931113,
+      "strictTotal": -7.730442819931113,
+      "primaryFlexible": -17.55081077114977,
+      "strictFlexible": -17.55081077114977
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-01",
+      "primaryTotal": -9.930871347295014,
+      "strictTotal": -9.930871347295014,
+      "primaryFlexible": -21.853264527709225,
+      "strictFlexible": -21.853264527709225
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-01",
+      "primaryTotal": 5.8409517229969135,
+      "strictTotal": 5.8409517229969135,
+      "primaryFlexible": 11.994949494949488,
+      "strictFlexible": 11.994949494949488
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-02",
+      "primaryTotal": -5.826138745300211,
+      "strictTotal": -5.826138745300211,
+      "primaryFlexible": -13.632253603531735,
+      "strictFlexible": -13.632253603531735
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-02",
+      "primaryTotal": 4.578037467622428,
+      "strictTotal": 4.578037467622428,
+      "primaryFlexible": 9.720223820943248,
+      "strictFlexible": 9.720223820943248
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-02",
+      "primaryTotal": 0.8886924249331312,
+      "strictTotal": 0.8886924249331312,
+      "primaryFlexible": 1.8904887844059046,
+      "strictFlexible": 1.8904887844059046
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-05",
+      "primaryTotal": 5.074256196294629,
+      "strictTotal": 5.074256196294629,
+      "primaryFlexible": 11.313399778516066,
+      "strictFlexible": 11.313399778516066
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-05",
+      "primaryTotal": 3.735795912662994,
+      "strictTotal": 3.735795912662994,
+      "primaryFlexible": 7.865550022634685,
+      "strictFlexible": 7.865550022634685
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-05",
+      "primaryTotal": 16.227716007205405,
+      "strictTotal": 16.227716007205405,
+      "primaryFlexible": 31.018106262986045,
+      "strictFlexible": 31.018106262986045
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-06",
+      "primaryTotal": 27.59887083070683,
+      "strictTotal": 27.59887083070683,
+      "primaryFlexible": 50.93146758829976,
+      "strictFlexible": 50.93146758829976
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-07",
+      "primaryTotal": 16.9774636167785,
+      "strictTotal": 16.9774636167785,
+      "primaryFlexible": 32.578452296261176,
+      "strictFlexible": 32.578452296261176
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-07",
+      "primaryTotal": 19.718060286271204,
+      "strictTotal": 19.718060286271204,
+      "primaryFlexible": 39.52639368524913,
+      "strictFlexible": 39.52639368524913
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-07",
+      "primaryTotal": 13.100136289570209,
+      "strictTotal": 13.100136289570209,
+      "primaryFlexible": 23.467344423906354,
+      "strictFlexible": 23.467344423906354
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-08",
+      "primaryTotal": 34.98128897516055,
+      "strictTotal": 34.98128897516055,
+      "primaryFlexible": 66.31461302039675,
+      "strictFlexible": 66.31461302039675
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-09",
+      "primaryTotal": 30.947900757454306,
+      "strictTotal": 30.947900757454306,
+      "primaryFlexible": 53.2240119963237,
+      "strictFlexible": 53.2240119963237
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-10",
+      "primaryTotal": -2.8070338235976453,
+      "strictTotal": -2.8070338235976453,
+      "primaryFlexible": -6.595802671027533,
+      "strictFlexible": -6.595802671027533
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-11",
+      "primaryTotal": 18.467615263790087,
+      "strictTotal": 18.467615263790087,
+      "primaryFlexible": 37.15148698884757,
+      "strictFlexible": 37.15148698884757
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-11",
+      "primaryTotal": 23.456551190245797,
+      "strictTotal": 23.456551190245797,
+      "primaryFlexible": 44.03003148462097,
+      "strictFlexible": 44.03003148462097
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-12",
+      "primaryTotal": -0.8929244970756759,
+      "strictTotal": -0.8929244970756759,
+      "primaryFlexible": -1.8470749339192964,
+      "strictFlexible": -1.8470749339192964
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-12",
+      "primaryTotal": -5.534964170990878,
+      "strictTotal": -5.534964170990878,
+      "primaryFlexible": -11.952403820500505,
+      "strictFlexible": -11.952403820500505
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-13",
+      "primaryTotal": 14.34659116015265,
+      "strictTotal": 14.34659116015265,
+      "primaryFlexible": 25.80511842314418,
+      "strictFlexible": 25.80511842314418
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-13",
+      "primaryTotal": 24.028283077429023,
+      "strictTotal": 24.028283077429023,
+      "primaryFlexible": 43.33642261353105,
+      "strictFlexible": 43.33642261353105
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-13",
+      "primaryTotal": 15.163137976884522,
+      "strictTotal": 15.163137976884522,
+      "primaryFlexible": 28.21122740247384,
+      "strictFlexible": 28.21122740247384
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-14",
+      "primaryTotal": 18.89384691064791,
+      "strictTotal": 18.89384691064791,
+      "primaryFlexible": 37.43367935409458,
+      "strictFlexible": 37.43367935409458
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-15",
+      "primaryTotal": 55.15471440216134,
+      "strictTotal": 55.15471440216134,
+      "primaryFlexible": 83.4320482446694,
+      "strictFlexible": 83.4320482446694
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-15",
+      "primaryTotal": 57.15088442222821,
+      "strictTotal": 57.15088442222821,
+      "primaryFlexible": 90.69292216236299,
+      "strictFlexible": 90.69292216236299
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-15",
+      "primaryTotal": 52.88635282929148,
+      "strictTotal": 52.88635282929148,
+      "primaryFlexible": 82.04485098849219,
+      "strictFlexible": 82.04485098849219
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-16",
+      "primaryTotal": 38.07516306695249,
+      "strictTotal": 38.07516306695249,
+      "primaryFlexible": 65.37817423698691,
+      "strictFlexible": 65.37817423698691
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-16",
+      "primaryTotal": 45.488910142551354,
+      "strictTotal": 45.488910142551354,
+      "primaryFlexible": 79.16617128363652,
+      "strictFlexible": 79.16617128363652
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-17",
+      "primaryTotal": 23.6500454808567,
+      "strictTotal": 23.6500454808567,
+      "primaryFlexible": 56.138472519628834,
+      "strictFlexible": 56.138472519628834
+    },
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "date": "2026-11-18",
+      "primaryTotal": 33.5550602409054,
+      "strictTotal": 32.660679215177026,
+      "primaryFlexible": 59.448886596165416,
+      "strictFlexible": 57.8643280887284
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-18",
+      "primaryTotal": 2.597416982344199,
+      "strictTotal": 2.597416982344199,
+      "primaryFlexible": 6.886930983847268,
+      "strictFlexible": 6.886930983847268
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-18",
+      "primaryTotal": 32.26100492223984,
+      "strictTotal": 32.26100492223984,
+      "primaryFlexible": 53.72489490892106,
+      "strictFlexible": 53.72489490892106
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "date": "2026-11-19",
+      "primaryTotal": 34.13524981220944,
+      "strictTotal": 34.13524981220944,
+      "primaryFlexible": 59.700326658145144,
+      "strictFlexible": 59.700326658145144
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "date": "2026-11-19",
+      "primaryTotal": 42.524810585849956,
+      "strictTotal": 42.524810585849956,
+      "primaryFlexible": 72.13602275665892,
+      "strictFlexible": 72.13602275665892
+    }
+  ]
+}

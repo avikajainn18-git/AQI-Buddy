@@ -1,0 +1,215 @@
+{
+  "datasetName": "AQI Buddy hourly PM2.5 sample",
+  "source": "OpenAQ API v3",
+  "requestedFrom": "2026-11-14T00:00:00+05:30",
+  "requestedTo": "2026-11-21T00:00:00+05:30",
+  "expectedHours": 168,
+  "generatedAt": "2026-11-21T08:30:20.427Z",
+  "stations": [
+    {
+      "station": "Sector 62, Noida",
+      "area": "Noida",
+      "sensorId": 12234720,
+      "returnedRecords": 166,
+      "uniqueTimestamps": 166,
+      "duplicateRecords": 0,
+      "invalidTimestamps": 0,
+      "validNonNegativeValues": 166,
+      "negativeValues": 0,
+      "nullOrInvalidValues": 0,
+      "missingUnit": [],
+      "distinctUnitStrings": [
+        "Âµg/mÂ³"
+      ],
+      "flaggedRecords": 0,
+      "expectedHours": 168,
+      "coveragePercent": 98.8,
+      "gapsBetweenRecords": 2,
+      "missingHoursBetweenRecords": 2,
+      "nonHourlyIntervals": 0,
+      "minPm25": 28.8,
+      "medianPm25": 192,
+      "meanPm25": 208.7132530120481,
+      "maxPm25": 430,
+      "firstTimestampLocal": "2026-11-14T00:00:00+05:30",
+      "lastTimestampLocal": "2026-11-20T23:00:00+05:30",
+      "sampleTimestamps": {
+        "firstThreeLocal": [
+          "2026-11-14T00:00:00+05:30",
+          "2026-11-14T01:00:00+05:30",
+          "2026-11-14T02:00:00+05:30"
+        ],
+        "lastThreeLocal": [
+          "2026-11-20T21:00:00+05:30",
+          "2026-11-20T22:00:00+05:30",
+          "2026-11-20T23:00:00+05:30"
+        ]
+      },
+      "duplicateExamples": []
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "area": "Delhi",
+      "sensorId": 12234787,
+      "returnedRecords": 168,
+      "uniqueTimestamps": 168,
+      "duplicateRecords": 0,
+      "invalidTimestamps": 0,
+      "validNonNegativeValues": 168,
+      "negativeValues": 0,
+      "nullOrInvalidValues": 0,
+      "missingUnit": [],
+      "distinctUnitStrings": [
+        "Âµg/mÂ³"
+      ],
+      "flaggedRecords": 0,
+      "expectedHours": 168,
+      "coveragePercent": 100,
+      "gapsBetweenRecords": 0,
+      "missingHoursBetweenRecords": 0,
+      "nonHourlyIntervals": 0,
+      "minPm25": 5,
+      "medianPm25": 120.5,
+      "meanPm25": 127.08928571428571,
+      "maxPm25": 327,
+      "firstTimestampLocal": "2026-11-14T00:00:00+05:30",
+      "lastTimestampLocal": "2026-11-20T23:00:00+05:30",
+      "sampleTimestamps": {
+        "firstThreeLocal": [
+          "2026-11-14T00:00:00+05:30",
+          "2026-11-14T01:00:00+05:30",
+          "2026-11-14T02:00:00+05:30"
+        ],
+        "lastThreeLocal": [
+          "2026-11-20T21:00:00+05:30",
+          "2026-11-20T22:00:00+05:30",
+          "2026-11-20T23:00:00+05:30"
+        ]
+      },
+      "duplicateExamples": []
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "area": "Delhi",
+      "sensorId": 12234796,
+      "returnedRecords": 164,
+      "uniqueTimestamps": 164,
+      "duplicateRecords": 0,
+      "invalidTimestamps": 0,
+      "validNonNegativeValues": 164,
+      "negativeValues": 0,
+      "nullOrInvalidValues": 0,
+      "missingUnit": [],
+      "distinctUnitStrings": [
+        "Âµg/mÂ³"
+      ],
+      "flaggedRecords": 0,
+      "expectedHours": 168,
+      "coveragePercent": 97.6,
+      "gapsBetweenRecords": 2,
+      "missingHoursBetweenRecords": 4,
+      "nonHourlyIntervals": 0,
+      "minPm25": 9,
+      "medianPm25": 168.5,
+      "meanPm25": 178.09999999999994,
+      "maxPm25": 420,
+      "firstTimestampLocal": "2026-11-14T00:00:00+05:30",
+      "lastTimestampLocal": "2026-11-20T23:00:00+05:30",
+      "sampleTimestamps": {
+        "firstThreeLocal": [
+          "2026-11-14T00:00:00+05:30",
+          "2026-11-14T01:00:00+05:30",
+          "2026-11-14T02:00:00+05:30"
+        ],
+        "lastThreeLocal": [
+          "2026-11-20T21:00:00+05:30",
+          "2026-11-20T22:00:00+05:30",
+          "2026-11-20T23:00:00+05:30"
+        ]
+      },
+      "duplicateExamples": []
+    },
+    {
+      "station": "Sector 125, Noida",
+      "area": "Noida",
+      "sensorId": 12235187,
+      "returnedRecords": 164,
+      "uniqueTimestamps": 164,
+      "duplicateRecords": 0,
+      "invalidTimestamps": 0,
+      "validNonNegativeValues": 164,
+      "negativeValues": 0,
+      "nullOrInvalidValues": 0,
+      "missingUnit": [],
+      "distinctUnitStrings": [
+        "Âµg/mÂ³"
+      ],
+      "flaggedRecords": 0,
+      "expectedHours": 168,
+      "coveragePercent": 97.6,
+      "gapsBetweenRecords": 2,
+      "missingHoursBetweenRecords": 4,
+      "nonHourlyIntervals": 0,
+      "minPm25": 8,
+      "medianPm25": 92.75,
+      "meanPm25": 119.28048780487805,
+      "maxPm25": 794,
+      "firstTimestampLocal": "2026-11-14T00:00:00+05:30",
+      "lastTimestampLocal": "2026-11-20T23:00:00+05:30",
+      "sampleTimestamps": {
+        "firstThreeLocal": [
+          "2026-11-14T00:00:00+05:30",
+          "2026-11-14T01:00:00+05:30",
+          "2026-11-14T02:00:00+05:30"
+        ],
+        "lastThreeLocal": [
+          "2026-11-20T21:00:00+05:30",
+          "2026-11-20T22:00:00+05:30",
+          "2026-11-20T23:00:00+05:30"
+        ]
+      },
+      "duplicateExamples": []
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "area": "Gurugram",
+      "sensorId": 14258988,
+      "returnedRecords": 160,
+      "uniqueTimestamps": 160,
+      "duplicateRecords": 0,
+      "invalidTimestamps": 0,
+      "validNonNegativeValues": 160,
+      "negativeValues": 0,
+      "nullOrInvalidValues": 0,
+      "missingUnit": [],
+      "distinctUnitStrings": [
+        "Âµg/mÂ³"
+      ],
+      "flaggedRecords": 0,
+      "expectedHours": 168,
+      "coveragePercent": 95.2,
+      "gapsBetweenRecords": 4,
+      "missingHoursBetweenRecords": 8,
+      "nonHourlyIntervals": 0,
+      "minPm25": 60.2,
+      "medianPm25": 137,
+      "meanPm25": 126.53374999999997,
+      "maxPm25": 269,
+      "firstTimestampLocal": "2026-11-14T00:00:00+05:30",
+      "lastTimestampLocal": "2026-11-20T23:00:00+05:30",
+      "sampleTimestamps": {
+        "firstThreeLocal": [
+          "2026-11-14T00:00:00+05:30",
+          "2026-11-14T01:00:00+05:30",
+          "2026-11-14T02:00:00+05:30"
+        ],
+        "lastThreeLocal": [
+          "2026-11-20T21:00:00+05:30",
+          "2026-11-20T22:00:00+05:30",
+          "2026-11-20T23:00:00+05:30"
+        ]
+      },
+      "duplicateExamples": []
+    }
+  ]
+}

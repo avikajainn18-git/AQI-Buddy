@@ -1,0 +1,47 @@
+[
+  {
+    "stationName": "Sector 62, Noida",
+    "stationId": "12234720",
+    "overallStationEligible": true,
+    "datesConsideredAfterLookback": 46,
+    "targetWindowIncomplete": 22,
+    "insufficientHistoricalProfile": 0,
+    "evaluatedStationDays": 24
+  },
+  {
+    "stationName": "R K Puram, Delhi",
+    "stationId": "12234787",
+    "overallStationEligible": true,
+    "datesConsideredAfterLookback": 46,
+    "targetWindowIncomplete": 16,
+    "insufficientHistoricalProfile": 0,
+    "evaluatedStationDays": 30
+  },
+  {
+    "stationName": "Punjabi Bagh, Delhi",
+    "stationId": "12234796",
+    "overallStationEligible": true,
+    "datesConsideredAfterLookback": 46,
+    "targetWindowIncomplete": 28,
+    "insufficientHistoricalProfile": 1,
+    "evaluatedStationDays": 17
+  },
+  {
+    "stationName": "Sector 125, Noida",
+    "stationId": "12235187",
+    "overallStationEligible": true,
+    "datesConsideredAfterLookback": 46,
+    "targetWindowIncomplete": 21,
+    "insufficientHistoricalProfile": 1,
+    "evaluatedStationDays": 24
+  },
+  {
+    "stationName": "Vikas Sadan, Gurugram",
+    "stationId": "14258988",
+    "overallStationEligible": false,
+    "datesConsideredAfterLookback": 0,
+    "targetWindowIncomplete": 0,
+    "insufficientHistoricalProfile": 0,
+    "evaluatedStationDays": 0
+  }
+]

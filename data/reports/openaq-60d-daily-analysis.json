@@ -1,0 +1,4044 @@
+{
+  "source": "OpenAQ API v3",
+  "requestedFrom": "2026-09-22T00:00:00+05:30",
+  "requestedTo": "2026-11-21T00:00:00+05:30",
+  "expectedDays": 60,
+  "stationSummary": [
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "records": 1276,
+      "duplicateTimestamps": 0,
+      "invalidTimestamps": 0,
+      "invalidValues": 0,
+      "nonHourlyIntervals": 0,
+      "completeDays": 34,
+      "daysAtLeast22Hours": 45,
+      "daysAtLeast20Hours": 49,
+      "daysBelow20Hours": 11,
+      "totalDays": 60
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "records": 1237,
+      "duplicateTimestamps": 0,
+      "invalidTimestamps": 0,
+      "invalidValues": 0,
+      "nonHourlyIntervals": 0,
+      "completeDays": 33,
+      "daysAtLeast22Hours": 38,
+      "daysAtLeast20Hours": 46,
+      "daysBelow20Hours": 14,
+      "totalDays": 60
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "records": 1249,
+      "duplicateTimestamps": 0,
+      "invalidTimestamps": 0,
+      "invalidValues": 0,
+      "nonHourlyIntervals": 0,
+      "completeDays": 29,
+      "daysAtLeast22Hours": 39,
+      "daysAtLeast20Hours": 49,
+      "daysBelow20Hours": 11,
+      "totalDays": 60
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "records": 1222,
+      "duplicateTimestamps": 0,
+      "invalidTimestamps": 0,
+      "invalidValues": 0,
+      "nonHourlyIntervals": 0,
+      "completeDays": 31,
+      "daysAtLeast22Hours": 37,
+      "daysAtLeast20Hours": 46,
+      "daysBelow20Hours": 14,
+      "totalDays": 60
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "records": 1172,
+      "duplicateTimestamps": 0,
+      "invalidTimestamps": 0,
+      "invalidValues": 0,
+      "nonHourlyIntervals": 0,
+      "completeDays": 23,
+      "daysAtLeast22Hours": 31,
+      "daysAtLeast20Hours": 36,
+      "daysBelow20Hours": 24,
+      "totalDays": 60
+    }
+  ],
+  "dailyCoverage": [
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-23",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-24",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-25",
+      "validHours": 23,
+      "missingHours": [
+        7
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-26",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-27",
+      "validHours": 23,
+      "missingHours": [
+        4
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-29",
+      "validHours": 19,
+      "missingHours": [
+        10,
+        11,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-09-30",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-02",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-03",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-04",
+      "validHours": 16,
+      "missingHours": [
+        13,
+        14,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-05",
+      "validHours": 20,
+      "missingHours": [
+        0,
+        1,
+        2,
+        21
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-07",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-08",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-09",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-10",
+      "validHours": 22,
+      "missingHours": [
+        13,
+        14
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-11",
+      "validHours": 21,
+      "missingHours": [
+        18,
+        19,
+        20
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-12",
+      "validHours": 19,
+      "missingHours": [
+        6,
+        7,
+        8,
+        11,
+        12
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-15",
+      "validHours": 23,
+      "missingHours": [
+        13
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-16",
+      "validHours": 22,
+      "missingHours": [
+        13,
+        14
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-17",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-18",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-21",
+      "validHours": 22,
+      "missingHours": [
+        17,
+        18
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-23",
+      "validHours": 21,
+      "missingHours": [
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-24",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-25",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-26",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-27",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-29",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-30",
+      "validHours": 22,
+      "missingHours": [
+        3,
+        10
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-10-31",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-02",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-03",
+      "validHours": 13,
+      "missingHours": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-04",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-05",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-07",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-08",
+      "validHours": 23,
+      "missingHours": [
+        23
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-09",
+      "validHours": 22,
+      "missingHours": [
+        0,
+        1
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-11",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-12",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-14",
+      "validHours": 23,
+      "missingHours": [
+        11
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-15",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-17",
+      "validHours": 23,
+      "missingHours": [
+        15
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-18",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "date": "2026-11-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-23",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-24",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-25",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-26",
+      "validHours": 23,
+      "missingHours": [
+        20
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-27",
+      "validHours": 21,
+      "missingHours": [
+        1,
+        2,
+        3
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-29",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-09-30",
+      "validHours": 21,
+      "missingHours": [
+        16,
+        17,
+        18
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-01",
+      "validHours": 23,
+      "missingHours": [
+        12
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-02",
+      "validHours": 5,
+      "missingHours": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 20.8
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-03",
+      "validHours": 16,
+      "missingHours": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-04",
+      "validHours": 18,
+      "missingHours": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-05",
+      "validHours": 21,
+      "missingHours": [
+        0,
+        1,
+        2
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-07",
+      "validHours": 19,
+      "missingHours": [
+        14,
+        15,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-08",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-09",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-11",
+      "validHours": 17,
+      "missingHours": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 70.8
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-12",
+      "validHours": 21,
+      "missingHours": [
+        0,
+        1,
+        2
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-15",
+      "validHours": 22,
+      "missingHours": [
+        11,
+        13
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-17",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-18",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-21",
+      "validHours": 22,
+      "missingHours": [
+        22,
+        23
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-22",
+      "validHours": 21,
+      "missingHours": [
+        0,
+        1,
+        2
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-23",
+      "validHours": 20,
+      "missingHours": [
+        18,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-24",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-25",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-26",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-27",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-28",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-29",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-30",
+      "validHours": 21,
+      "missingHours": [
+        0,
+        1,
+        3
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-10-31",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-02",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-03",
+      "validHours": 13,
+      "missingHours": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-04",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-05",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-07",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-08",
+      "validHours": 22,
+      "missingHours": [
+        22,
+        23
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-09",
+      "validHours": 15,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-11",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-12",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-15",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-17",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-18",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "date": "2026-11-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-22",
+      "validHours": 22,
+      "missingHours": [
+        0,
+        1
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-23",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-24",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-25",
+      "validHours": 20,
+      "missingHours": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-26",
+      "validHours": 22,
+      "missingHours": [
+        2,
+        23
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-27",
+      "validHours": 15,
+      "missingHours": [
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-28",
+      "validHours": 22,
+      "missingHours": [
+        14,
+        15
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-29",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-09-30",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-01",
+      "validHours": 23,
+      "missingHours": [
+        17
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-02",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-03",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-04",
+      "validHours": 17,
+      "missingHours": [
+        12,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 70.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-05",
+      "validHours": 20,
+      "missingHours": [
+        0,
+        1,
+        2,
+        12
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-07",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-08",
+      "validHours": 20,
+      "missingHours": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-09",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-11",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-12",
+      "validHours": 21,
+      "missingHours": [
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-14",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-15",
+      "validHours": 21,
+      "missingHours": [
+        8,
+        12,
+        13
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-16",
+      "validHours": 22,
+      "missingHours": [
+        11,
+        12
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-17",
+      "validHours": 19,
+      "missingHours": [
+        15,
+        16,
+        17,
+        19,
+        20
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-18",
+      "validHours": 14,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 58.3
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-21",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-23",
+      "validHours": 20,
+      "missingHours": [
+        15,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-24",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-25",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-26",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-27",
+      "validHours": 13,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-29",
+      "validHours": 23,
+      "missingHours": [
+        23
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-30",
+      "validHours": 21,
+      "missingHours": [
+        2,
+        3,
+        9
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-10-31",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-02",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-03",
+      "validHours": 13,
+      "missingHours": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-04",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-05",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-07",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-08",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-09",
+      "validHours": 22,
+      "missingHours": [
+        1,
+        2
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-11",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-12",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-13",
+      "validHours": 23,
+      "missingHours": [
+        12
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-15",
+      "validHours": 21,
+      "missingHours": [
+        17,
+        18,
+        19
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-17",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-18",
+      "validHours": 23,
+      "missingHours": [
+        11
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "date": "2026-11-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-23",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-24",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-25",
+      "validHours": 23,
+      "missingHours": [
+        4
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-26",
+      "validHours": 14,
+      "missingHours": [
+        5,
+        6,
+        7,
+        15,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 58.3
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-27",
+      "validHours": 14,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "coveragePercent": 58.3
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-29",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-09-30",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-01",
+      "validHours": 16,
+      "missingHours": [
+        5,
+        6,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-02",
+      "validHours": 8,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 33.3
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-03",
+      "validHours": 22,
+      "missingHours": [
+        17,
+        18
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-04",
+      "validHours": 18,
+      "missingHours": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-05",
+      "validHours": 21,
+      "missingHours": [
+        0,
+        1,
+        2
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-07",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-08",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-09",
+      "validHours": 21,
+      "missingHours": [
+        18,
+        19,
+        23
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-10",
+      "validHours": 13,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-11",
+      "validHours": 22,
+      "missingHours": [
+        0,
+        1
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-12",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-15",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-17",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-18",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-21",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-22",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-23",
+      "validHours": 21,
+      "missingHours": [
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-24",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-25",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-26",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-27",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-28",
+      "validHours": 23,
+      "missingHours": [
+        15
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-29",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-30",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-10-31",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-02",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-03",
+      "validHours": 8,
+      "missingHours": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 33.3
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-04",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-05",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-07",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-08",
+      "validHours": 20,
+      "missingHours": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-09",
+      "validHours": 21,
+      "missingHours": [
+        4,
+        22,
+        23
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-10",
+      "validHours": 21,
+      "missingHours": [
+        12,
+        13,
+        14
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-11",
+      "validHours": 23,
+      "missingHours": [
+        23
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-12",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-14",
+      "validHours": 21,
+      "missingHours": [
+        7,
+        8,
+        9
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-15",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-17",
+      "validHours": 23,
+      "missingHours": [
+        10
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-18",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "date": "2026-11-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-22",
+      "validHours": 20,
+      "missingHours": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-23",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-24",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-25",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-26",
+      "validHours": 19,
+      "missingHours": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-27",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-28",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-29",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-09-30",
+      "validHours": 21,
+      "missingHours": [
+        11,
+        14,
+        15
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-01",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-02",
+      "validHours": 15,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 62.5
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-03",
+      "validHours": 16,
+      "missingHours": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-04",
+      "validHours": 17,
+      "missingHours": [
+        0,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 70.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-05",
+      "validHours": 18,
+      "missingHours": [
+        0,
+        1,
+        2,
+        11,
+        18,
+        19
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-06",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-07",
+      "validHours": 21,
+      "missingHours": [
+        20,
+        21,
+        22
+      ],
+      "coveragePercent": 87.5
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-08",
+      "validHours": 23,
+      "missingHours": [
+        11
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-09",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-10",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-11",
+      "validHours": 19,
+      "missingHours": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-12",
+      "validHours": 18,
+      "missingHours": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-14",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-15",
+      "validHours": 19,
+      "missingHours": [
+        10,
+        11,
+        12,
+        13,
+        23
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-17",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-18",
+      "validHours": 14,
+      "missingHours": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 58.3
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-20",
+      "validHours": 13,
+      "missingHours": [
+        5,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-21",
+      "validHours": 19,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-22",
+      "validHours": 17,
+      "missingHours": [
+        5,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 70.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-23",
+      "validHours": 3,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 12.5
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-24",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-25",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-26",
+      "validHours": 0,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 0
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-27",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-28",
+      "validHours": 18,
+      "missingHours": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-29",
+      "validHours": 8,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 33.3
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-30",
+      "validHours": 19,
+      "missingHours": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-10-31",
+      "validHours": 20,
+      "missingHours": [
+        10,
+        11,
+        14,
+        15
+      ],
+      "coveragePercent": 83.3
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-01",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-02",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-03",
+      "validHours": 13,
+      "missingHours": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "coveragePercent": 54.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-04",
+      "validHours": 16,
+      "missingHours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "coveragePercent": 66.7
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-05",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-06",
+      "validHours": 18,
+      "missingHours": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "coveragePercent": 75
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-07",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-08",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-09",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-10",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-11",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-12",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-13",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-14",
+      "validHours": 23,
+      "missingHours": [
+        5
+      ],
+      "coveragePercent": 95.8
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-15",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-16",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-17",
+      "validHours": 22,
+      "missingHours": [
+        5,
+        11
+      ],
+      "coveragePercent": 91.7
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-18",
+      "validHours": 19,
+      "missingHours": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "coveragePercent": 79.2
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-19",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "date": "2026-11-20",
+      "validHours": 24,
+      "missingHours": [],
+      "coveragePercent": 100
+    }
+  ],
+  "readingsAtLeast500UgM3": [
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-09T03:00:00+05:30",
+      "pm25UgM3": 993,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-10-21T16:00:00+05:30",
+      "pm25UgM3": 992,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-10-21T17:00:00+05:30",
+      "pm25UgM3": 992,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-08T21:00:00+05:30",
+      "pm25UgM3": 924,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-09T02:00:00+05:30",
+      "pm25UgM3": 915,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-08T22:00:00+05:30",
+      "pm25UgM3": 863,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-09T04:00:00+05:30",
+      "pm25UgM3": 863,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-09T00:00:00+05:30",
+      "pm25UgM3": 850,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-08T21:00:00+05:30",
+      "pm25UgM3": 794,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-08T22:00:00+05:30",
+      "pm25UgM3": 794,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-08T23:00:00+05:30",
+      "pm25UgM3": 794,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-19T23:00:00+05:30",
+      "pm25UgM3": 794,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "datetimeLocal": "2026-10-03T09:00:00+05:30",
+      "pm25UgM3": 774,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-09T03:00:00+05:30",
+      "pm25UgM3": 735,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-09T09:00:00+05:30",
+      "pm25UgM3": 714,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-12T16:00:00+05:30",
+      "pm25UgM3": 711,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-08T21:00:00+05:30",
+      "pm25UgM3": 657,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-07T21:00:00+05:30",
+      "pm25UgM3": 632,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-09T04:00:00+05:30",
+      "pm25UgM3": 628,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-07T22:00:00+05:30",
+      "pm25UgM3": 616,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-08T20:00:00+05:30",
+      "pm25UgM3": 609,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-12T15:00:00+05:30",
+      "pm25UgM3": 594,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-07T20:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-07T21:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-07T22:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-07T23:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T00:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T01:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T02:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T03:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-12T04:00:00+05:30",
+      "pm25UgM3": 593,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 125, Noida",
+      "sensorId": 12235187,
+      "datetimeLocal": "2026-11-12T03:00:00+05:30",
+      "pm25UgM3": 571,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-09T05:00:00+05:30",
+      "pm25UgM3": 559,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T04:00:00+05:30",
+      "pm25UgM3": 557,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T05:00:00+05:30",
+      "pm25UgM3": 551,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-08T23:00:00+05:30",
+      "pm25UgM3": 546,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-05T23:00:00+05:30",
+      "pm25UgM3": 534,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "datetimeLocal": "2026-09-22T08:00:00+05:30",
+      "pm25UgM3": 522,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Vikas Sadan, Gurugram",
+      "sensorId": 14258988,
+      "datetimeLocal": "2026-10-03T10:00:00+05:30",
+      "pm25UgM3": 520,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-08T04:00:00+05:30",
+      "pm25UgM3": 509,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Sector 62, Noida",
+      "sensorId": 12234720,
+      "datetimeLocal": "2026-11-08T09:00:00+05:30",
+      "pm25UgM3": 509,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-05T22:00:00+05:30",
+      "pm25UgM3": 508,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-03T00:00:00+05:30",
+      "pm25UgM3": 503,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-06T09:00:00+05:30",
+      "pm25UgM3": 503,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "Punjabi Bagh, Delhi",
+      "sensorId": 12234796,
+      "datetimeLocal": "2026-11-06T00:00:00+05:30",
+      "pm25UgM3": 502,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    },
+    {
+      "station": "R K Puram, Delhi",
+      "sensorId": 12234787,
+      "datetimeLocal": "2026-11-06T08:00:00+05:30",
+      "pm25UgM3": 501,
+      "units": "Âµg/mÂ³",
+      "hasFlags": false
+    }
+  ]
+}

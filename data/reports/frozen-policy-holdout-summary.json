@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-11-21T15:44:51.154Z",
+  "evaluationType": "disjoint-date retrospective holdout (2026-07-24 through 2026-09-21); dates do not overlap policy-development records, but this is not a forward-in-time prospective test because development used later dates",
+  "policy": {
+    "name": "frozen-mean7-mean14-consensus-10",
+    "rule": "Move only if 7-day and 14-day mean profiles select identical start times for all flexible activities AND both policies predict at least 10% total exposure-index reduction; otherwise keep habitual schedule.",
+    "minHistoricalValuesPerHour": {
+      "sevenDay": 4,
+      "fourteenDay": 7
+    },
+    "gridMinutes": 15
+  },
+  "data": {
+    "source": "data/processed/openaq-normalized-holdout.json",
+    "testStartDate": "2026-07-24",
+    "testEndDateExclusive": "2026-09-22",
+    "expectedTestCalendarDays": 60,
+    "evaluatedStationDays": 79,
+    "movedDays": 13,
+    "fallbackDays": 66,
+    "movedPercent": 16.455696202531644,
+    "skippedStationsBelowCoverageThreshold": 1,
+    "skippedForIncompleteTarget": 161
+  },
+  "overallIncludingFallbackDays": {
+    "totalReductionPct": {
+      "n": 79,
+      "median": 0,
+      "p25": 0,
+      "p75": 0,
+      "mean": -0.4617196214840902,
+      "min": -26.86122493658294,
+      "max": 43.26903774569689,
+      "shareAtLeast10Percent": 3.7974683544303796
+    },
+    "flexibleReductionPct": {
+      "n": 79,
+      "median": 0,
+      "p25": 0,
+      "p75": 0,
+      "mean": -1.6102298755956803,
+      "min": -59.617619097919096,
+      "max": 60.39065001601025,
+      "shareAtLeast10Percent": 5.063291139240507
+    },
+    "harmfulFlexibleDays": 8,
+    "harmfulFlexibleDaysPercent": 10.126582278481013
+  },
+  "onlyWhenScheduleMoves": {
+    "n": 13,
+    "totalReductionPct": {
+      "n": 13,
+      "median": -12.086032360281536,
+      "p25": -19.01535057391786,
+      "p75": 8.262430990807076,
+      "mean": -2.8058346228648556,
+      "min": -26.86122493658294,
+      "max": 43.26903774569689,
+      "shareAtLeast10Percent": 23.076923076923077
+    },
+    "flexibleReductionPct": {
+      "n": 13,
+      "median": -24.574911774141807,
+      "p25": -36.826253372654826,
+      "p75": 16.959437879271803,
+      "mean": -9.785243090158364,
+      "min": -59.617619097919096,
+      "max": 60.39065001601025,
+      "shareAtLeast10Percent": 30.76923076923077
+    },
+    "harmfulFlexibleDays": 8,
+    "harmfulFlexibleDaysPercent": 61.53846153846154
+  },
+  "fallbackReasons": {
+    "insufficient-14-day-history": 8,
+    "7-day-and-14-day-plans-disagree": 42,
+    "one-or-both-predicted-gains-below-10-percent": 7,
+    "insufficient-7-day-history": 9
+  },
+  "stationSummary": [
+    {
+      "stationId": "12234720",
+      "stationName": "Sector 62, Noida",
+      "evaluatedDays": 19,
+      "movedDays": 0,
+      "medianOverallTotalReductionPct": 0,
+      "medianOverallFlexibleReductionPct": 0,
+      "harmfulFlexibleDays": 0
+    },
+    {
+      "stationId": "12234787",
+      "stationName": "R K Puram, Delhi",
+      "evaluatedDays": 18,
+      "movedDays": 2,
+      "medianOverallTotalReductionPct": 0,
+      "medianOverallFlexibleReductionPct": 0,
+      "harmfulFlexibleDays": 0
+    },
+    {
+      "stationId": "12234796",
+      "stationName": "Punjabi Bagh, Delhi",
+      "evaluatedDays": 16,
+      "movedDays": 4,
+      "medianOverallTotalReductionPct": 0,
+      "medianOverallFlexibleReductionPct": 0,
+      "harmfulFlexibleDays": 3
+    },
+    {
+      "stationId": "12235187",
+      "stationName": "Sector 125, Noida",
+      "evaluatedDays": 26,
+      "movedDays": 7,
+      "medianOverallTotalReductionPct": 0,
+      "medianOverallFlexibleReductionPct": 0,
+      "harmfulFlexibleDays": 5
+    }
+  ]
+}
